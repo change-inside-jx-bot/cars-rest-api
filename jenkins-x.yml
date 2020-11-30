@@ -1,1 +1,2 @@
 buildPack: javascript
+buildPackGitRef: https://github.com/jenkins-x/jxr-packs-kubernetes
